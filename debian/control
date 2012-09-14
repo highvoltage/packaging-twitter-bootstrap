@@ -1,12 +1,12 @@
-Source: libjs-twitter-bootstrap-2.1.1
+Source: libjs-twitter-bootstrap-2.1
 Section: web
 Priority: optional
 Maintainer: Jonathan Carter <jonathan@ubuntu.com>
-Build-Depends: debhelper (>= 9.0.0), libnode-less
+Build-Depends: debhelper (>= 9.0.0), node-less
 Standards-Version: 3.9.3
 Homepage: http://twitter.github.com/bootstrap
 
-Package: libjs-twitter-bootstrap-2.1.1
+Package: libjs-twitter-bootstrap-2.1
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: javascript, css and html resources for bootstrapping a web
