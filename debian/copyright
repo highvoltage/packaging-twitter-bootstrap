@@ -1,9 +1,9 @@
-Format: http://dep.debian.net/deps/dep5
-Upstream-Name: libjs-twitter-bootstrap-1.3.0
-Source: https://github.com/twitter/bootstrap/tarball/master 
+http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: libjs-twitter-bootstrap
+Source: https://github.com/twitter/bootstrap/tarball/master
 
 Files: js/* lib/*
-Copyright 2011 Twitter, Inc.
+Copyright 2011-2012 Twitter, Inc.
 License: Apache 2
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@ License: Apache 2
  version 2 can be found in "/usr/share/common-licenses/Apache-2.0".
 
 Files: docs/* examples/*
-Copyright 2011 Twitter, Inc.
+Copyright 2011-2012 Twitter, Inc.
 License: Clarification needed
  FIXME License is unclear, according to the documentation itself it
  is licensed  under CC BY 3.0, but Twitter probably isn't intending
